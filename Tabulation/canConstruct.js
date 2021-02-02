@@ -1,3 +1,0 @@
-const cancon = (target,strs) =>{
-    
-}
