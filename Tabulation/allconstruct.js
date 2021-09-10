@@ -20,4 +20,4 @@ console.log(allcon("abcdef",["ab","abc","cd","def","abcd",'ef','c']));
 console.log(allcon("purple",['purp','p','ur','le','purpl']));
 console.log(allcon("skateboard",['bo','rd','ate','t','ska','sk','boar']));
 console.log(allcon("enterapotentpot",['a','p','ent','enter','ot','o','t']));
-console.log(allcon("eeeeeeeeeef",["e","ee","eee","eeeeeeeee"]));
+// console.log(allcon("eeeeeeeeeef",["e","ee","eee","eeeeeeeee"]));
